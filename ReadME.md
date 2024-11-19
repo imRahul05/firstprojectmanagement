@@ -1,4 +1,4 @@
-## Using GitHub's project management features, such as milestones, issues, and project boards, was a valuable learning experience that helped me organize and manage my project more efficiently.
+## GitHub's project management 
 <hr>
  These tools allowed me to break down the project into manageable tasks and track progress in a transparent and systematic manner. Milestones set clear deadlines for key stages of the project, ensuring I stayed aligned with the project timeline. Issues served as actionable items, making it easier to track tasks and bugs that needed attention, while project boards provided a visual overview of the project status, helping me see what was completed, in progress, or pending.
  
